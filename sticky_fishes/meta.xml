@@ -1,0 +1,7 @@
+<meta>
+	<info author="CrystalMV" version="1.0.0" name="Sticky fishes" description="Sea animals get stuck on you when you go underwater" type="script" />
+	<script src="sticky_fishes.lua" />
+	<script src="sticky_fishes_c.lua" type="client" />
+	<file src="sticky_fishes.xml" />
+	<include resource="bone_attach" />
+</meta>

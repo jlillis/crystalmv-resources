@@ -1,0 +1,5 @@
+<meta>
+	<info author="CrystalMV" version="1.0.0" name="Gravity gun toggler" description="A simple command for toggling gravity gun on/off" type="script" />
+	<script src="ggun_toggle.lua" />
+	<include resource="gravity_gun" />
+</meta>

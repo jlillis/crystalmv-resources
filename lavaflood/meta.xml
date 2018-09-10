@@ -1,0 +1,12 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="Lava flood" description="Turns water into lava and makes it rise" type="script" />
+
+	<script src="lavaflood_s.lua" type="server" />
+	<script src="lavaflood_c.lua" type="client" />
+
+	<export function="getLavaLevel"     type="server" http="false" />
+	<export function="setLavaLevel"     type="server" http="false" />
+	<export function="getLavaRiseSpeed" type="server" http="false" />
+	<export function="setLavaRiseSpeed" type="server" http="false" />
+</meta>
+

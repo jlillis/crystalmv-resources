@@ -1,0 +1,23 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="NPC task sequencer" description="Create sequences of tasks and assign them to peds using NPC high-level control" type="script" />
+	<include resource="npc_hlc" />
+
+	<script src="nts_s.lua"				type="server" />
+	<script src="nts_c.lua"				type="client" />
+	<script src="sequences_s.lua"		type="server" />
+	<script src="sequences_c.lua"		type="client" />
+	<script src="posmarkers_s.lua"		type="server" />
+	<script src="posmarkers_c.lua"		type="client" />
+	<script src="npcs_s.lua"			type="server" />
+	<script src="npcs_c.lua"			type="client" />
+	<script src="seqedit_s.lua"			type="server" />
+	<script src="seqedit_c.lua"			type="client" />
+	<script src="seqedit_draw_c.lua"	type="client" />
+	<script src="posmedit_s.lua"		type="server" />
+	<script src="posmedit_c.lua"		type="client" />
+	<script src="npcedit_s.lua"			type="server" />
+	<script src="npcedit_c.lua"			type="client" />
+	<script src="draw_c.lua"			type="client" />
+	<script src="save_load_s.lua"		type="server" />
+</meta>
+

@@ -1,0 +1,22 @@
+<stickyfishes>
+	<animal model="902" bone="1" scale="0.1" x="0" y="0" z="0.15" rx="0" ry="0" rz="0" />
+	<animal model="1599" bone="20" scale="0.5" x="0.06" y="-0.05" z="0.1" rx="0" ry="15" rz="0" />
+	<animal model="1604" bone="5" scale="0.4" x="0" y="0.06" z="0.15" rx="120" ry="0" rz="60" />
+	<animal model="1603" bone="6" scale="0.2" x="0.05" y="0.1" z="0.12" rx="0" ry="90" rz="125" />
+	<animal model="1609" bone="4" scale="0.1" x="0" y="0.1" z="0.2" rx="0" ry="0" rz="50" />
+	<animal model="2782" bone="17" scale="0.2" x="0" y="-0.12" z="0.0" rx="110" ry="0" rz="0" />
+	<animal model="1600" bone="19" scale="0.4" x="0" y="0.075" z="0.075" rx="0" ry="0" rz="-70" />
+	<animal model="902" bone="7" scale="0.08" x="0.04" y="0" z="0.1" rx="180" ry="90" rz="0" />
+	<animal model="1599" bone="9" scale="0.25" x="0" y="0.05" z="0.15" rx="-10" ry="0" rz="90" />
+	<animal model="2782" bone="10" scale="0.3" x="0" y="0.08" z="0.1" rx="0" ry="90" rz="90" />
+	<animal model="1604" bone="4" scale="0.5" x="0" y="0" z="-0.17" rx="0" ry="90" rz="0" />
+	<animal model="902" bone="18" scale="0.08" x="-0.08" y="0" z="0" rx="0" ry="-90" rz="0" />
+	<animal model="1603" bone="2" scale="0.2" x="0" y="-0.1" z="0.1" rx="0" ry="0" rz="0" />
+	<animal model="1600" bone="15" scale="0.5" x="0.11" y="0" z="0" rx="90" ry="0" rz="0" />
+	<animal model="1600" bone="4" scale="0.5" x="0.2" y="0" z="0" rx="90" ry="0" rz="0" />
+	<animal model="1609" bone="11" scale="0.05" x="0" y="-0.03" z="0.1" rx="90" ry="0" rz="0" />
+	<animal model="1609" bone="13" scale="0.1" x="0" y="-0.1" z="0.25" rx="90" ry="0" rz="0" />
+	<animal model="1599" bone="14" scale="0.4" x="0" y="0.15" z="0.25" rx="90" ry="0" rz="90" />
+	<animal model="1604" bone="12" scale="0.2" x="0" y="-0.03" z="0.05" rx="0" ry="0" rz="90" />
+	<animal model="2782" bone="16" scale="0.2" x="0" y="0.1" z="0" rx="0" ry="90" rz="90" />
+</stickyfishes>

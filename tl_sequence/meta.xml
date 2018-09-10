@@ -1,0 +1,5 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="Traffic light sequence" description="Custom sequence of traffic light states" type="script" />
+	<script src="sequence.lua" />
+</meta>
+

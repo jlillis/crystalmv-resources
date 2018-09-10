@@ -1,0 +1,7 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="Gravity gun" description="Lifting other players and vehicles in the air and throwing them" type="script" />
+	<script src="ggun.lua" />
+	<script src="ggunc.lua" type="client" />
+	<export function="togglePlayerGravityGun" type="server" />
+	<export function="isGravityGunEnabled" type="server" />
+</meta>

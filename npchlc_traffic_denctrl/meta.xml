@@ -1,0 +1,7 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="NPC traffic density controller" description="A simple example showing how to use traffic density functions" type="script"/>
+	<include resource="npchlc_traffic" />
+
+	<script src="denctrl.lua" />
+</meta>
+

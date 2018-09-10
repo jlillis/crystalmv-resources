@@ -1,0 +1,10 @@
+<sequence>
+	<state NS="R" WE="R" time="15000" />
+	<state NS="Y" WE="R" time="3000"  />
+	<state NS="G" WE="R" time="20000" />
+	<state NS="Y" WE="R" time="3000"  />
+	<state NS="R" WE="Y" time="3000"  />
+	<state NS="R" WE="G" time="20000" />
+	<state NS="R" WE="Y" time="3000"  />
+</sequence>
+

@@ -1,0 +1,6 @@
+<meta>
+	<info author="CrystalMV" version="1.0" name="Lava flood control" description="Controlling lava flood via commands" type="script" />
+	<script src="lavafl_ctrl.lua" />
+	<include resource="lavaflood" />
+</meta>
+
