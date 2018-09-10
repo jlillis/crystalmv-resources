@@ -1,0 +1,11 @@
+Copyright (c) 2017 CrystalMV
+
+You are allowed to redistribute these scripts, either original or modified, as long as you give me a credit as the original author of the scripts. If the scripts are modified, you have to inform people about this, too.
+
+Also, I do not put additional restrictions on the commercial usage of the scripts. You can put my content (original or modified) into what you are selling or otherwise using for profit, just make sure that people are aware of my contribution and the fact that I provide my scripts for free.
+
+Finally, you may use the scripts in your public server. If you do so, you only have to tell about my contribution in these cases:
+1. If players explicitly ask about scripts.
+2. If you use your server to make profit. A notice about my contribution somewhere in the server info is enough.
+
+You can contact me via e-mail (cmvg10@gmail.com) or MTA SA forum (CrystalMV).
