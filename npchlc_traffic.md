@@ -60,4 +60,4 @@ Gets the traffic density.
 Returns density, or false if invalid arguments were given.
 ```
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20160716203517/http://crystalmv.net84.net:80/pages/scripts/npchlc_traffic.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20161123022420/http://crystalmv.net84.net:80/pages/scripts/npchlc_traffic.php*

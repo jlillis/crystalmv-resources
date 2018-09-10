@@ -306,4 +306,4 @@ exports.npc_hlc:addNPCTask(ped, {"walkAlongLine", 0, 0, 3, 0, 20, 3, 2, 4}) --wa
 exports.npc_hlc:addNPCTask(ped, {"walkAlongLine", 0, 20, 3, 20, 20, 3, 2, 4}) --walk 20 units to the east
 ```
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20160512010510/http://crystalmv.net84.net:80/pages/scripts/npc_hlc.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20161129144418/http://crystalmv.net84.net:80/pages/scripts/npc_hlc.php*

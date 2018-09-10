@@ -11,4 +11,4 @@ Airbrake is controlled using numpad keys. It only works when you are on foot. Ai
 * Num7: speed up the movement
 * Num9: slow down the movement
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20170116014530/http://crystalmv.net84.net:80/pages/scripts/airbrake.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20170114180514/http://crystalmv.net84.net:80/pages/scripts/airbrake.php*

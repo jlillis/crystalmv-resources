@@ -76,4 +76,4 @@ print(v1, v2, v3, v4, v5, v6, v7, v8, v9)
 -- Outputs: 1 2 20 30 40 3 27 56.87 somedata
 ```
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20161127171210/http://crystalmv.net84.net:80/pages/scripts/bytedata.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20161129152106/http://crystalmv.net84.net:80/pages/scripts/bytedata.php*

@@ -128,4 +128,4 @@ Returns x, y, z, rx, ry, rz of the bone if ped is streamed in and bone number is
 19: left foot
 20: right foot
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20150823060958/http://crystalmv.net84.net:80/pages/scripts/bone_attach.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20170114161100/http://crystalmv.net84.net:80/pages/scripts/bone_attach.php*

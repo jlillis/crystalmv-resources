@@ -2,7 +2,7 @@
 
 ## Using drawtag_bc
 
-drawtag_bc is a script which uses functions of drawtag to provide simple interface. It has a few commands and it also saves/loads tags when it stops/starts. You can use it to test the Drawtag script.
+`drawtag_bc` is a script which uses functions of `drawtag` to provide simple interface. It has a few commands and it also saves/loads tags when it stops/starts. You can use it to test the Drawtag script.
 
 ### drawtag_bc commands:
 ```
@@ -276,4 +276,4 @@ Gets triggered when a player erases the tag and before tag element gets destroye
     player: Player who erased the tag
 ```
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20161127171215/http://crystalmv.net84.net:80/pages/scripts/drawtag.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20161219194005/http://crystalmv.net84.net:80/pages/scripts/drawtag.php*

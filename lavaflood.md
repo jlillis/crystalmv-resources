@@ -62,4 +62,4 @@ Gets the lava rising speed.
 Return value: lava rising speed in units per milisecond.
 ```
 
-*Original page for this resource available via web archive: https://web.archive.org/web/20130328061137/http://crystalmv.net84.net:80/pages/scripts/lavaflood.php*
+*Original page for this resource available via web archive: https://web.archive.org/web/20161127171226/http://crystalmv.net84.net:80/pages/scripts/lavaflood.php*
