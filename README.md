@@ -14,3 +14,6 @@ Reference the MTA:SA wiki's [server manual](https://wiki.multitheftauto.com/wiki
 ## Authors
 * CrystalMV - original author - [MTA:SA forum profile](https://forum.mtasa.com/profile/1985-crystalmv/)
 * jlillis - repository curator - [Github](https://github.com/jlillis)
+
+## License
+See [LICENSE.md](LICENSE.md).
