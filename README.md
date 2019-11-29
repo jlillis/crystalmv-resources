@@ -16,4 +16,4 @@ Reference the MTA:SA wiki's [server manual](https://wiki.multitheftauto.com/wiki
 * jlillis - repository curator - [Github](https://github.com/jlillis)
 
 ## License
-See [LICENSE.md](LICENSE.md).
+See [LICENSE.txt](LICENSE.txt).
