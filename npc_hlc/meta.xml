@@ -1,5 +1,6 @@
 <meta>
 	<info author="CrystalMV" version="0.1" name="NPC high-level control" description="Higher level control over peds" type="script" />
+	<min_mta_version server="1.5.5-9.14060"></min_mta_version>
 	<script src="npc_functions_s.lua"	type="server"	/>
 	<script src="npc_functions.lua"		type="server"	/>
 	<script src="npc_functions.lua"		type="client"	/>
@@ -37,4 +38,3 @@
 		<setting name="*server_colchecking" value="true" />
 	</settings>
 </meta>
-
