@@ -257,7 +257,7 @@ function makeNPCDriveToPos(npc,x,y,z,maxtime)
 		setElementPosition(car,x,y,z,true)
 		setElementRotation(car,rx,ry,rz)
 		setElementVelocity(car,vx,vy,vz)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		setElementPosition(npc,x,y,z)
 		if check_cols then call(server_coldata,"updateElementColData",car) end
 		return maxtime
@@ -265,7 +265,7 @@ function makeNPCDriveToPos(npc,x,y,z,maxtime)
 		setElementPosition(car,px,py,pz,true)
 		setElementRotation(car,getElementRotation(car))
 		setElementVelocity(car,0,0,0)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		return maxtime_unm
 	end
 end
@@ -307,7 +307,7 @@ function makeNPCDriveAlongLine(npc,x1,y1,z1,x2,y2,z2,off,maxtime)
 		setElementPosition(car,x_next,y_next,z_next,true)
 		setElementRotation(car,rx,ry,rz)
 		setElementVelocity(car,vx,vy,vz)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		setElementPosition(npc,x_next,y_next,z_next)
 		if check_cols then call(server_coldata,"updateElementColData",car) end
 		return maxtime
@@ -315,7 +315,7 @@ function makeNPCDriveAlongLine(npc,x1,y1,z1,x2,y2,z2,off,maxtime)
 		setElementPosition(car,x_this,y_this,z_this,true)
 		setElementRotation(car,getElementRotation(car))
 		setElementVelocity(car,0,0,0)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		return maxtime_unm
 	end
 end
@@ -364,7 +364,7 @@ function makeNPCDriveAroundBend(npc,x0,y0,x1,y1,z1,x2,y2,z2,off,maxtime)
 		setElementPosition(car,x_next,y_next,z_next,true)
 		setElementRotation(car,rx,ry,rz)
 		setElementVelocity(car,vx,vy,vz)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		setElementPosition(npc,x_next,y_next,z_next)
 		if check_cols then call(server_coldata,"updateElementColData",car) end
 		return maxtime
@@ -372,7 +372,7 @@ function makeNPCDriveAroundBend(npc,x0,y0,x1,y1,z1,x2,y2,z2,off,maxtime)
 		setElementPosition(car,x_this,y_this,z_this,true)
 		setElementRotation(car,getElementRotation(car))
 		setElementVelocity(car,0,0,0)
-		setVehicleTurnVelocity(car,0,0,0)
+		setElementAngularVelocity(car,0,0,0)
 		return maxtime_unm
 	end
 end
